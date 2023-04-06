@@ -1,0 +1,27 @@
+ .header {
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #0067A3;
+    height: 55px;
+    font-size: 28px;
+    color: white;
+ }
+
+ .footer {
+   padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #0067A3;
+    font-size: 18px;
+    height: 55px;
+    color: white;
+ }
+
+ .tasksInfo > span {
+    margin-right: 36px;
+ }
+
+ 
